@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\bin\Debug\Bubble Sorting.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\Bubble Sorting\Bubble Sorting\obj\Debug\Bubble Sorting.pdb
